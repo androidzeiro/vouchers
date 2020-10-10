@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "237873722305",
+    "firebase_url": "https://tag-home-cb927.firebaseio.com",
+    "project_id": "tag-home-cb927",
+    "storage_bucket": "tag-home-cb927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237873722305:android:257322a04b6149303bf540",
+        "android_client_info": {
+          "package_name": "br.com.taglivros.tag_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1To-feqI9uk8vIGWSK0D6AoVwhUaMks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237873722305:android:86dafc8de1d11f5f3bf540",
+        "android_client_info": {
+          "package_name": "com.garagu.voucher_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1To-feqI9uk8vIGWSK0D6AoVwhUaMks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237873722305:android:042a9103af1b10a23bf540",
+        "android_client_info": {
+          "package_name": "com.juanagu.fluttercleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1To-feqI9uk8vIGWSK0D6AoVwhUaMks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237873722305-m2vp77044e1f3u1nc21ff51janktkns2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
